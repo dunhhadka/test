@@ -8,6 +8,7 @@ public class ProjectEconomicApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProjectEconomicApplication.class, args);
+        System.out.println("hello");
     }
 
 }
