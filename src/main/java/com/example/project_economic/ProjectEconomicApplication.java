@@ -10,6 +10,7 @@ public class ProjectEconomicApplication {
         SpringApplication.run(ProjectEconomicApplication.class, args);
         System.out.println("hello");
         System.out.println("adsfsdaf");
+        System.out.println("!23");
     }
 
 }
